@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Mirko965/ubuntu-node-aws#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "pm2": "^3.5.0"
   }
 }
